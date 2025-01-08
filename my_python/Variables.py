@@ -13,3 +13,4 @@ variable_with_changed_type = 4
 variable_with_changed_type = 'Sally'
 
 assert variable_with_changed_type == 'Sally'
+
