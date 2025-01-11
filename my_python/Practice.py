@@ -1,10 +1,11 @@
 # This is a practice inbuilt function in python
 
 #Concatenation of two strings
-First_name = "Nancy"
-Last_name = "Ali"
+first_name = "Nancy"
+last_name = "Ali"
+space= " "
 
-result = First_name + " " + Last_name
+result = first_name + space + last_name
 
 print (result)
 
@@ -31,3 +32,11 @@ print (len(str4))
 #Rounding a number
 x = 3.14159
 print ('Number has been Rounded:', round(x));
+
+
+greeting= "Imamol Hasan and Abu Antor"
+print (greeting [::-1])
+
+stg1 = "coding for all"
+print = (stg1.replace ('coding', 'python'))
+
